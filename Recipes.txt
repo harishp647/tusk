@@ -6,5 +6,7 @@ Noodles
 chickencurry
 pasta
 
+Beans
+pizza
 
 thank you
